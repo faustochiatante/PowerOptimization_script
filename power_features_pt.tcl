@@ -1,0 +1,2 @@
+set_user_attribute [find library CORE65LPLVT] default_threshold_voltage_group LVT
+set_user_attribute [find library CORE65LPHVT] default_threshold_voltage_group HVT
